@@ -1,4 +1,4 @@
-from calculator import sum, subtract, multiply, power, modulus, floor_divide, divide
+from calculator import ssum, subtract, multiply, power, modulus, floor_divide, divide
 import pytest
 
 def test_sum():
